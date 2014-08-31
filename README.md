@@ -5,7 +5,7 @@ NodeSudoku is a Sudoku solver in native JS running on NodeJS (though can easly b
 
 ## How to use
 
-As you can see in the [index.js](index.js) file, getting NodeSudoku to work is plain simple:
+As you can see in the [index.js](src/index.js) file, getting NodeSudoku to work is plain simple:
 
 * Require sudoku module, and initialize a sudoku object
 
