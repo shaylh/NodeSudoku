@@ -71,5 +71,5 @@ That's it!
 
 ## Tests
 
-Currently I made thorough tests (using Jasmine) for the cell class, and basic tests to sudoku main class.
+Currently I made thorough tests (using [Jasmine-node](https://github.com/mhevery/jasmine-node)) for the cell class, and basic tests to sudoku main class.
 Feel free to add more!
